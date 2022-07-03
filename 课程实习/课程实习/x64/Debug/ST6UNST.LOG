@@ -1,0 +1,73 @@
+ %% PLEASE DO NOT MODIFY OR DELETE THIS FILE! %% 
+ %% This file contains information about the installation of an application. %% 
+ %% It will be used to automatically remove all application components from your computer if you choose to do so. %% 
+
+
+NOTE: Beginning of the bootstrapper section
+
+*** ERROR: Unable to create a directory named 'C:'
+*** DURING THIS ACTION: CreateDir: "C:"
+
+CONFIG: Title: "Visustin v8 Demo"
+
+*** ERROR: Unable to create a directory named 'C:'
+*** DURING THIS ACTION: CreateDir: "C:"
+
+*** ERROR: Unable to create a directory named 'C:'
+*** DURING THIS ACTION: CreateDir: "C:"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SystemFile: "C:\WINDOWS\System32\VB6STKIT.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\msvbvm60.dll"
+(File currently on disk was already up to date)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\msvbvm60.dll"
+
+NOTE: End of the bootstrapper section
+
+NOTE: Now spawning the main Setup program 'Setup1.exe'....
+
+ACTION: PrivateFile: "D:\source\repos\课程实习\课程实习\x64\Debug\visustin.exe"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "D:\source\repos\课程实习\课程实习\x64\Debug\visustin.chm"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "D:\source\repos\课程实习\课程实习\x64\Debug\Visus8.vst"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "D:\source\repos\课程实习\课程实习\x64\Debug\Checklib.exe"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "D:\source\repos\课程实习\课程实习\x64\Debug\AddFlow5.ocx"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "D:\source\repos\课程实习\课程实习\x64\Debug\WinGraphviz.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "D:\source\repos\课程实习\课程实习\x64\Debug\FreeImage.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "D:\source\repos\课程实习\课程实习\x64\Debug\Visustin.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "D:\source\repos\课程实习\课程实习\x64\Debug\Config.exe"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "D:\source\repos\课程实习\课程实习\x64\Debug\license.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "D:\source\repos\课程实习\课程实习\x64\Debug\readme.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: DllSelfRegister: "D:\source\repos\课程实习\课程实习\x64\Debug\AddFlow5.ocx"
+
+ACTION: DllSelfRegister: "D:\source\repos\课程实习\课程实习\x64\Debug\WinGraphviz.dll"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\visustin.exe"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\visustin.exe", ""
+

@@ -1,0 +1,5 @@
+﻿  实验报告.cpp
+C:\Users\Y\source\repos\实验报告\实验报告\实验报告.cpp(74,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Y\source\repos\实验报告\实验报告\实验报告.cpp(203,21): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\Y\source\repos\实验报告\实验报告\实验报告.cpp(261,19): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  实验报告.vcxproj -> C:\Users\Y\source\repos\实验报告\x64\Debug\实验报告.exe

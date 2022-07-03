@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc21c9dc-10a8-42c8-ba44-365cd860989c": {
+      "ProjectGuid": "dc21c9dc-10a8-42c8-ba44-365cd860989c",
+      "DisplayName": "爬虫",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

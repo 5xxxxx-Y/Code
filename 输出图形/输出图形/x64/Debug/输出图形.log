@@ -1,0 +1,4 @@
+﻿  输出图形.cpp
+C:\Users\Y\source\repos\输出图形\输出图形\输出图形.cpp(37,29): warning C4101: “the_high”: 未引用的局部变量
+C:\Users\Y\source\repos\输出图形\输出图形\输出图形.cpp(37,20): warning C4101: “the_len”: 未引用的局部变量
+  输出图形.vcxproj -> C:\Users\Y\source\repos\输出图形\x64\Debug\输出图形.exe

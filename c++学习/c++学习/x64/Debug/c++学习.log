@@ -1,0 +1,12 @@
+﻿  hello world.cpp
+  循环结构 do while循环语句.cpp
+  循环结构 while循环语句.cpp
+  数据类型.cpp
+C:\Users\Y\source\repos\c++学习\c++学习\数据类型.cpp(81,17): warning C4305: “初始化”: 从“double”到“float”截断
+  数据结构 switch语句.cpp
+  运算符.cpp
+C:\Users\Y\source\repos\c++学习\c++学习\运算符.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  选择结构 if语句.cpp
+  选择结构 三目运行符.cpp
+  正在生成代码...
+  c++学习.vcxproj -> C:\Users\Y\source\repos\c++学习\x64\Debug\c++学习.exe

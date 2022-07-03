@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+ConsoleApplication3.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl date::date(void)" (??0date@@QEAA@XZ)，函数 main 中引用了该符号
+C:\Users\Y\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe : fatal error LNK1120: 1 个无法解析的外部命令
