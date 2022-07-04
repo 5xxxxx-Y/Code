@@ -13,7 +13,7 @@ int GreatestCommonDivisor(int a, int b);
 int date(int year, int month, int day);
 double Salary(double hour, double money);
 
-//shishi
+//试试
 struct result  //定义结构体 
 {
     string right;  //存放数据字符串 
